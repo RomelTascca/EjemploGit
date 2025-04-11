@@ -9,6 +9,6 @@
  */
 public class HolaMundo {
     public static void main(String[] args) {
-        System.out.println("Hola, GitHub desde NetBeans! 😎");
+        System.out.println("Esta es una prueba en la nueva rama.");
     }
 }
